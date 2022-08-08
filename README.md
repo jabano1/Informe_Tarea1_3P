@@ -83,7 +83,18 @@ NRC: 7318
 ![Transformadores Elevadores y Reductores](https://user-images.githubusercontent.com/105677231/183524455-60c7b9e8-f3a4-46b2-bd2d-43466ef2e91c.JPG)
 ***
 
+**3. Ejercicios Resueltos**
 
+**Capitulo 13**
+
+
+**4. Video**
+
+**5. Conclusiones**
+
+**6. Bibliografia**
+
+Floyd, T. M. (2007). 5 Principios de Circuitos Electricos (8.a ed.). Pearson Education.
 
 
 
