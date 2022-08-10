@@ -88,9 +88,16 @@ NRC: 7318
 **Capitulo 13**
 
 
+
 **4. Video**
 
 **5. Conclusiones**
+-En conclusion, el estudio de la inductancia es importante ya que se puede reconocer que sucede con el campo electromagnetico en un circuito, de este modo se puede analizar el comportamiento de varios elementos.
+
+-Los transformadores cumplen un papel importante en el funcionamiento de varios aparatos electronicos, ya que con estos aparatos alimentan con energia otros dispositivos, transformando el valor del voltaje para su optimo funcionamiento.
+
+-Los transoformadores son utiles para el funcionamiento de casi todas las cosas de la vida, ya que pueden alimentarse con voltajes diferentes como es el caso de 220 y 110 voltios, los cuales estan presentes en los postes de la ciudad. 
+
 
 **6. Bibliografia**
 
