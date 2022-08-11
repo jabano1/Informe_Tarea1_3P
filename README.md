@@ -87,6 +87,16 @@ NRC: 7318
 
 **Capitulo 13**
 
+**2. Convierta los siguientes valores en microhenries:**
+
+![image](https://user-images.githubusercontent.com/105677231/184198528-c19260b2-6f25-49d5-b506-22c926308c8b.png)
+
+**4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?**
+
+![image](https://user-images.githubusercontent.com/105677231/184198623-37dbf9b6-bd32-4378-8ddf-9eda2574a68f.png)
+
+
+
 **18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.**
 
 ![image](https://user-images.githubusercontent.com/105677231/184030175-11b273c2-3f44-4053-817b-8db881dac77b.png)
