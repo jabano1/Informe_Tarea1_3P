@@ -95,7 +95,39 @@ NRC: 7318
 
 ![image](https://user-images.githubusercontent.com/105677231/184198623-37dbf9b6-bd32-4378-8ddf-9eda2574a68f.png)
 
+**6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10×10^(-5) m^(2) y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2×10^(-6) H/m .**
 
+![image](https://user-images.githubusercontent.com/105677231/184198949-84bcc4f7-f7b1-47a7-ade0-5deb35bf68be.png)
+
+**8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.**
+
+![image](https://user-images.githubusercontent.com/105677231/184199064-77b2409a-bdc6-40e5-b090-86bc44e984f7.png)
+
+-La inductancia del inductor 1 es menor en comparación al inductor 2 que tiene el doble de vueltas, es decir, que mientras más vueltas haya en el inductor mayor será la inductancia y a su vez mientras menor sea la cantidad de vueltas menor será la inductancia.
+
+**10.Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4π×10^(-6) H/m). Determine la inductancia de la bobina que se formó.**
+
+![image](https://user-images.githubusercontent.com/105677231/184199161-dee78462-fd07-400f-9b68-b6d036d1fbd4.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/184199224-48140105-a7e7-4304-adef-53b59fc68b69.png)
+
+**12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?**
+
+![image](https://user-images.githubusercontent.com/105677231/184199315-8877c9fe-51ca-4e4f-87c0-7b0e370ad97b.png)
+
+**14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?**
+
+![image](https://user-images.githubusercontent.com/105677231/184199387-52cae74f-3dc3-4923-abf6-79d99eaa8ef4.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/184199439-a212c604-0b7c-460c-a58a-4fdeffad104c.png)
+
+**16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?**
+
+![image](https://user-images.githubusercontent.com/105677231/184199526-83e19468-4bc7-445c-b0a8-c812e0ea2265.png)
 
 **18. Determine la inductancia total de cada circuito mostrado en la figura 13-47.**
 
