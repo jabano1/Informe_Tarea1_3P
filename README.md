@@ -177,9 +177,63 @@ Solucion:
 
 ![image](https://user-images.githubusercontent.com/105677231/184030744-97390904-03cc-4c6a-9932-e35cb255c34b.png)
 
+**34. En la figura 13-51, determine la potencia reactiva.**
+
+![image](https://user-images.githubusercontent.com/105677231/184410333-e5126656-44cc-4328-8073-7e0386f7a658.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/184410387-97f546f2-f3b5-4506-92a2-6db6ede0a30e.png)
+
 ***
 
 **Capitulo 14**
+
+**2. Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 = 2 µH.**
+
+![image](https://user-images.githubusercontent.com/105677231/184410488-1a96a03d-aa86-4312-8ee8-fb553cc7f686.png)
+
+**4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?**
+
+![image](https://user-images.githubusercontent.com/105677231/184410540-6f32a07b-7915-497d-853d-384cc83b50b4.png)
+
+**6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?**
+
+![image](https://user-images.githubusercontent.com/105677231/184410585-8093dff4-40a2-410c-9d9d-fbfdd6eb7ced.png)
+
+**8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?**
+
+![image](https://user-images.githubusercontent.com/105677231/184410653-5f559725-a959-4c92-8b3f-27d757b5f774.png)
+
+**10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?**
+
+![image](https://user-images.githubusercontent.com/105677231/184410708-1556d146-ca4c-4393-8911-569f05929a29.png)
+
+**12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?**
+
+Circuito 1
+
+![image](https://user-images.githubusercontent.com/105677231/184410743-de2b56d0-6129-42b7-ac70-e1298efd41f0.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/184411183-3d0e6a14-dcd3-405e-baf9-0ae3a7b5d315.png)
+
+Circuito 2
+
+![image](https://user-images.githubusercontent.com/105677231/184411216-6cac7b8b-22c8-458e-9fec-ca0d0b2abbec.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/184411240-69396772-2712-4cf8-b54b-33328ac6d46e.png)
+
+**14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?**
+
+![image](https://user-images.githubusercontent.com/105677231/184411300-2da5cfb0-8146-4dbb-9b27-cc44065e5b08.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/184411376-37d69b0e-25da-4d9d-8f7a-946d553c4930.png)
 
 **16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?**
 
@@ -236,15 +290,6 @@ Vsec=(0.2)(240)=48V
 Vsec=(0.5)(240)=120V
 
 Vsec=(1)(240)=240V
-
-
-
-
-
-
-
-
-
 
 **4. Video**
 
