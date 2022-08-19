@@ -293,6 +293,8 @@ Vsec=(1)(240)=240V
 
 **4. Video**
 
+https://youtu.be/i3u3pdEykko
+
 **5. Conclusiones**
 
 -En conclusion, el estudio de la inductancia es importante ya que se puede reconocer que sucede con el campo electromagnetico en un circuito, de este modo se puede analizar el comportamiento de varios elementos.
